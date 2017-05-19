@@ -1,3 +1,11 @@
+To run project node.js must be installed. 
+In root folder perforem next commands:
+npm i
+node server.js
+Open http://localhost:8080/index.html in browser
+
+
+
 <p align="center">
 <img src="https://github.com/AnalyticalGraphicsInc/cesium/wiki/logos/Cesium_Logo_Color.jpg" width="50%" />
 </p>
